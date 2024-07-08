@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AcariciarLaTierra/static/css/main.8b214bf1.css",
+    "main.js": "/AcariciarLaTierra/static/js/main.45ac4d9c.js",
+    "index.html": "/AcariciarLaTierra/index.html",
+    "main.8b214bf1.css.map": "/AcariciarLaTierra/static/css/main.8b214bf1.css.map",
+    "main.45ac4d9c.js.map": "/AcariciarLaTierra/static/js/main.45ac4d9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b214bf1.css",
+    "static/js/main.45ac4d9c.js"
+  ]
+}
