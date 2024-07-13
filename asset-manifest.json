@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AcariciarLaTierra/static/css/main.f809c686.css",
-    "main.js": "/AcariciarLaTierra/static/js/main.958f5bcd.js",
+    "main.css": "/AcariciarLaTierra/static/css/main.9765993e.css",
+    "main.js": "/AcariciarLaTierra/static/js/main.b098ac2b.js",
     "static/media/Azul.mp4": "/AcariciarLaTierra/static/media/Azul.e2f557645d34e8112e48.mp4",
     "static/media/RO.mp4": "/AcariciarLaTierra/static/media/RO.d608ed99a352b16c100f.mp4",
     "static/media/pancha.mp4": "/AcariciarLaTierra/static/media/pancha.76d7c87d98c7cbebb36b.mp4",
@@ -23,11 +23,11 @@
     "static/media/Secuencia 02_4.mp4": "/AcariciarLaTierra/static/media/Secuencia 02_4.7729599cc6db2cfaab9f.mp4",
     "static/media/Sol.mp4": "/AcariciarLaTierra/static/media/Sol.25e3d2e448d87627ea15.mp4",
     "index.html": "/AcariciarLaTierra/index.html",
-    "main.f809c686.css.map": "/AcariciarLaTierra/static/css/main.f809c686.css.map",
-    "main.958f5bcd.js.map": "/AcariciarLaTierra/static/js/main.958f5bcd.js.map"
+    "main.9765993e.css.map": "/AcariciarLaTierra/static/css/main.9765993e.css.map",
+    "main.b098ac2b.js.map": "/AcariciarLaTierra/static/js/main.b098ac2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f809c686.css",
-    "static/js/main.958f5bcd.js"
+    "static/css/main.9765993e.css",
+    "static/js/main.b098ac2b.js"
   ]
 }
